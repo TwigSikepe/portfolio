@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index-demo-1.html",
+            "file": "c:\\Users\\Xihluke Sikepe\\Downloads\\blayden-personal-portfolio-resume-html-template-2024-08-22-11-45-56-utc\\blayden-personal-portfolio-and-resume-html-template\\HTML\\index-demo-1.html"
+        }
+    ]
+}
